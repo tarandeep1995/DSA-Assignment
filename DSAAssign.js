@@ -1,4 +1,4 @@
-//1.
+//Q1. Write a program to find all pairs of an integer array whose sum is equal to a given number?
 console.log("1st Answer");
 
 // Function to find pairs in an array that sum up to a target
@@ -31,7 +31,7 @@ console.log(result);
 
 console.log("*************************************")
 
-//2.
+//Q2. Write a program to reverse an array in place? In place means you cannot create a new array. You have to update the original array.
 console.log("2nd Answer");
 
 // Function to reverse an array
@@ -68,7 +68,7 @@ printArray(arr, n);
 
 console.log("*************************************")
 
-// 3
+// Q3. Write a program to check if two strings are a rotation of each other?
 console.log("3rd Answer");
 
 // Function to check if one string is a rotation of another
@@ -114,7 +114,8 @@ else {
 
 console.log("*************************************")
 
-//4
+//Q4. Write a program to print the first non-repeated character from a string?
+
 console.log("4rth Answer");
 
 // Function to find the first non-repeated character in a string
@@ -150,7 +151,7 @@ if (result1 !== null) {
 
 console.log("*************************************")
 
-//5
+//Q5. Read about the Tower of Hanoi algorithm. Write a program to implement it
 console.log("5th Answer");
 
 // Function to check if a character is an operator
@@ -186,7 +187,7 @@ console.log(`Prefix Expression: ${prefixExpression}`);
 
 console.log("*************************************")
 
-//6
+//Q6. Read about infix, prefix, and postfix expressions. Write a program to convert postfix to prefix expression.
 console.log("6th Answer");
 
 // Function to convert prefix expression to infix expression
@@ -224,7 +225,8 @@ console.log(`Infix Expression: ${infixExpression}`);
 
 console.log("*************************************")
 
-//7
+//Q7. Write a program to convert prefix expression to infix expression.
+
 console.log("7th Answer");
 
 // Function to check if brackets in a code snippet are closed properly
@@ -264,7 +266,7 @@ console.log(areBracketsClosed(codeSnippet2)); // Output: true
 
 console.log("*************************************")
 
-//8
+//Q8. Write a program to check if all the brackets are closed in a given code snippet.
 
 console.log("8th Answer");
 
@@ -294,7 +296,7 @@ console.log("Reversed Stack:", reversedStack);
 
 console.log("*************************************")
 
-//9
+//Q9. Write a program to reverse a stack.
 
 console.log("9th Answer");
 
@@ -355,7 +357,8 @@ console.log(`The String provided - ${ string }\nString in reverse format - ${ re
 
 console.log("*************************************")
 
-//10
+//Q10. Write a program to find the smallest number using a stack.
+
 console.log("10th Answer");
 
 // Class to implement a stack with a getMin function
